@@ -1,7 +1,7 @@
 <!-- 手机号登录页面 -->
 <template>
 	<!-- 公用nav -->
-	<view class="navBox"><uni-nav-bar title="神领物流" :border="false" /></view>
+	<view class="navBox"><uni-nav-bar title="物流智能调度系统" :border="false" /></view>
 	<!-- end -->
 	<view class="loginBox">
 		<view class="tit">

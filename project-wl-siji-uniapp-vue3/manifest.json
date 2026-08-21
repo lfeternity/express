@@ -1,5 +1,5 @@
 {
-    "name" : "神领-司机端",
+    "name" : "物流智能调度系统-司机端",
     "appid" : "__UNI__C91E013",
     "description" : "",
     "versionName" : "1.0.0",
@@ -131,6 +131,6 @@
         // 	"port" : 8848,
         // 	"https" : true
         // },
-        "title" : "神领物流"
+        "title" : "物流智能调度系统"
     }
 }

@@ -12,7 +12,7 @@
     <version>1.2-SNAPSHOT</version>
     <groupId>com.sl-express.common</groupId>
     <artifactId>sl-express-common</artifactId>
-    <description>神领物流的通用工程，提供一些通用的类或工具。</description>
+    <description>物流智能调度系统的通用工程，提供一些通用的类或工具。</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>

@@ -371,7 +371,7 @@ public class OmsServiceImpl implements OmsService {
             MemberDTO detail = memberFeign.detail(userId);
             jsapiPayDTO.setOpenId(detail.getOpenId());
             jsapiPayDTO.setEnterpriseId(enterpriseId);
-            jsapiPayDTO.setMemo("神领物流订单");
+            jsapiPayDTO.setMemo("物流智能调度系统订单");
             //3.2.2.调用feign
             JsapiPayResponseDTO jsapiTrading = jsapiPayFeign.createJsapiTrading(jsapiPayDTO);
 

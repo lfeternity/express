@@ -1,6 +1,6 @@
 <!-- 账号登录页 -->
 <template>
-	<view class="logo">神领快递员</view>
+	<view class="logo">物流智能调度系统快递员</view>
 	<view class="loginBox">
 		<view class="tit">
 			<text>账号登录</text>

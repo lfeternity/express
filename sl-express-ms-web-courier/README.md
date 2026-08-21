@@ -30,9 +30,9 @@ authority.applicationId=981194468570960001
 real-name-registration.enable=false
 spring.eidverify.url=https://eid.shumaidata.com/eid/check
 spring.eidverify.appCode=你的AppCode
-#微信 神领物流商户号
+#微信 物流智能调度系统商户号
 sl.wechat.enterpriseId=1561414331
-#支付宝 神领物流商户号
+#支付宝 物流智能调度系统商户号
 sl.ali.enterpriseId=2088241317544335
 ```
 

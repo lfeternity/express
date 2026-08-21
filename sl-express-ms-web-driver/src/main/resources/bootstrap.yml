@@ -17,7 +17,7 @@ spring:
 sl:
   swagger:
     package-path: com.sl.ms.web.driver.controller
-    title: 神领物流 - 司机端接口文档
+    title: 物流智能调度系统 - 司机端接口文档
     description: 该服务用于司机端
     contact-name: 传智教育·研究院
     contact-url: http://www.itcast.cn/

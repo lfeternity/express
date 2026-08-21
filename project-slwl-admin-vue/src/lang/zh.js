@@ -12,7 +12,7 @@ export default {
     deleteCache: '清除缓存'
   },
   login: {
-    title: '神领物流管理后台',
+    title: '物流智能调度系统管理后台',
     logIn: '登录',
     tenant: '企业',
     username: '账号',
@@ -455,7 +455,7 @@ export default {
     invalidURL: '不是有效的URL'
   },
   common: {
-    system: '神领物流管理后台',
+    system: '物流智能调度系统管理后台',
     desc: {
       a: '基于Spring Boot 2.2.2 & Spring Cloud Hoxton.SR1.RELEASE',
       b: '使用Jwt自定义统一认证',

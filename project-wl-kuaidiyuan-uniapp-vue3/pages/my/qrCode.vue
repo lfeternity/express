@@ -8,7 +8,7 @@
       <view class="qrHead">
         <view class="head"></view>
         <view class="info">
-          <view class="tit">神领快递员-张全蛋</view>
+          <view class="tit">物流智能调度系统快递员-张全蛋</view>
           <view class="star">
             <uni-rate
               :readonly="true"

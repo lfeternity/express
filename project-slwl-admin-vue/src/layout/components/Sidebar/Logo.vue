@@ -15,7 +15,7 @@ export default {
   },
   data() {
     return {
-      title: '神领TMS管理系统'
+      title: '物流智能调度系统管理后台'
     }
   },
   computed: {

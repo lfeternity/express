@@ -15,7 +15,7 @@ spring:
 sl:
   swagger:
     package-path: com.sl.transport.info.controller
-    title: 神领物流 - 运输信息微服务接口文档
+    title: 物流智能调度系统 - 运输信息微服务接口文档
     description: 该微服务完成运单的流转信息的记录以及查询。
     contact-name: 传智教育·研究院
     contact-url: http://www.itcast.cn/

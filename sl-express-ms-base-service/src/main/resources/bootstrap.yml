@@ -19,7 +19,7 @@ sl:
     enable: true #开启MQ，可以注入MQService使用，但是必须保证数据库有sl_fail_msg表
   swagger:
     package-path: com.sl.ms.base.controller
-    title: 神领物流 - 基础微服务接口文档
+    title: 物流智能调度系统 - 基础微服务接口文档
     description: 该微服务完成车辆、省市区等基础数据的管理。
     contact-name: 传智教育·研究院
     contact-url: http://www.itcast.cn/

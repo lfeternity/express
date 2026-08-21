@@ -7,7 +7,7 @@
     <groupId>com.sl-express</groupId>
     <artifactId>sl-express-parent</artifactId>
     <version>1.5-SNAPSHOT</version>
-    <description>神领物流的父工程，所有的工程都要继承该工程。</description>
+    <description>物流智能调度系统的父工程，所有的工程都要继承该工程。</description>
 
     <packaging>pom</packaging>
 

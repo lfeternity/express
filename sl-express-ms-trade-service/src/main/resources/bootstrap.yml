@@ -28,7 +28,7 @@ sl:
     height: ${qrcode.height} #高
   swagger:
     package-path: com.sl.ms.trade.controller
-    title: 神领物流 - 交易（支付）微服务接口文档
+    title: 物流智能调度系统 - 交易（支付）微服务接口文档
     description: 该微服务完记录交易、对接支付宝微信支付平台。
     contact-name: 传智教育·研究院
     contact-url: http://www.itcast.cn/

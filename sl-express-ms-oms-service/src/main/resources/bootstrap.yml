@@ -17,7 +17,7 @@ spring:
 sl:
   swagger:
     package-path: com.sl.ms.oms.controller
-    title: 神领物流 - 订单微服务接口文档
+    title: 物流智能调度系统 - 订单微服务接口文档
     description: 该微服务完成订单相关业务。
     contact-name: 传智教育·研究院
     contact-url: http://www.itcast.cn/
