@@ -1,0 +1,44 @@
+# Operating system and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+
+# Java and Maven build output
+target/
+out/
+gen/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node.js and frontend build output
+node_modules/
+dist/
+.cache/
+.npm/
+.yarn/
+
+# Local runtime files
+tmp/
+logs/
+*.log
+*.pid
+
+# Local environment overrides. Keep shared, non-secret .env files versioned only
+# when they are intentionally part of the project configuration.
+.env.local
+.env.*.local
+
+# Local tool state
+.vscode/
+httpRequests/
+dataSources/
+dataSources.local.xml
+shelf/
+ZeppelinRemoteNotebooks/
