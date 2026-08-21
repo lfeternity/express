@@ -148,4 +148,4 @@ npm run build:prod
 
 ## 维护信息
 
-本仓库的 Git 远程地址为 [`lfeternity/sl-express`](https://github.com/lfeternity/sl-express)。问题反馈和改进建议请通过 GitHub Issues 提交，并附上模块、运行环境、复现步骤和相关日志。
+本仓库的 Git 远程地址为 [`lfeternity/express`](https://github.com/lfeternity/express)。问题反馈和改进建议请通过 GitHub Issues 提交，并附上模块、运行环境、复现步骤和相关日志。
